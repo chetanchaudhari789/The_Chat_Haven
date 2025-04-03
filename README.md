@@ -18,7 +18,7 @@ The Chat Haven is an chat application where users can create room, join existing
 To clone the repository locally, use the following commands:
 
 ```bash
-git clone https://github.com/your-username/chat-app.git 
+git clone https://github.com/chetanchaudhari789/The_Chat_Haven.git 
 cd chat-app
 ```
 
